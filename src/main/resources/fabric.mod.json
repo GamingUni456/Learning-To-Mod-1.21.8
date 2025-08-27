@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mod_learning",
+	"version": "${version}",
+	"name": "Learning To Mod",
+	"description": "GamingUni456 is learning how to mod",
+	"authors": [
+		"GamingUni456"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "none yet"
+	},
+	"license": "MIT",
+	"icon": "assets/mod_learning/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.gaminguni456.learning.LearningToMod"
+		],
+		"fabric-datagen": [
+			"net.gaminguni456.learning.LearningToModDataGenerator"
+		],
+      "client": [
+        "net.gaminguni456.learning.LearningToModClient"
+      ]
+	},
+	"mixins": [
+		"mod_learning.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
