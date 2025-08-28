@@ -1,5 +1,9 @@
 {
   "item.learning_to_mod.blue_crystal": "Blue Crystal",
   "item.learning_to_mod.green_crystal": "Green Crystal",
-  "item.learning_to_mod.purple_crystal": "Purple Crystal"
+  "item.learning_to_mod.purple_crystal": "Purple Crystal",
+  "item.learning_to_mod.blue_refined_crystal": "Blue Refined Crystal",
+  "item.learning_to_mod.green_refined_crystal": "Green Refined Crystal",
+  "item.learning_to_mod.purple_refined_crystal": "Purple Refined Crystal",
+  "item.learning_to_mod.crystal_apple": "Crystal Apple"
 }

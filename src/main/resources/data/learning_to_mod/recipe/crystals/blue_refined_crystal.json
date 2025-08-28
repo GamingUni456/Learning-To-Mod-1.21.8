@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "learning_to_mod:blue_crystal",
+  "result": {
+    "id": "learning_to_mod:blue_refined_crystal"
+  },
+  "experience": 0.2,
+  "cookingtime": 400
+}

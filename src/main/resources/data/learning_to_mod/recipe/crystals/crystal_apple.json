@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gbp",
+    " a ",
+    "pbg"
+  ],
+  "key": {
+    "a": "minecraft:apple",
+    "g": "learning_to_mod:green_refined_crystal",
+    "b": "learning_to_mod:blue_refined_crystal",
+    "p": "learning_to_mod:purple_refined_crystal"
+  },
+  "result": {
+    "id": "learning_to_mod:crystal_apple",
+    "count": 1
+  }
+}
